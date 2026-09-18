@@ -12,20 +12,20 @@ export const ZENELISTA:ZeneTipus[] = [
         cim: "Shape of You",
         enekes: "Ed Sheeran",
         kiadasiEv: 2017,
-        kep: "/zenek/kepek/ed.png"
+        kep: "/zenek/public/kepek/ed.png"
     },
     {
         id: 2,
         cim: "Blinding Lights",
         enekes: "The Weeknd",
         kiadasiEv: 2019,
-        kep: "/zenek/kepek/weeknd.jpg"
+        kep: "/zenek/public/kepek/weeknd.jpg"
     },
     {
         id: 3,
         cim: "Flowers",
         enekes: "Miley Cyrus",
         kiadasiEv: 2023,
-        kep: "/zenek/kepek/miley.jpg"
+        kep: "/zenek/public/kepek/miley.jpg"
     }
 ];
